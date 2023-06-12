@@ -1,0 +1,1 @@
+$ammunition=15;$ammunitionstuka=2;$totalPoints=5;$enemy=KV-2,T-34;$delay=1;$enemy=T-34;
